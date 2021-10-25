@@ -14,4 +14,4 @@ Scales to massive workloads, distributed database.Millions of requests per secon
 * DynamoDB is made of tables. Each table has a primary key (must be decided at creation time). Each table can have an infinite number of items (= rows). Each item has attributes (can be added over time – can be null). Maximum size of a item is 400KB. 
 * Data types supported are: Scalar Types: String, Number, Binary, Boolean, Null
 * Document Types: List, Map
-* Set Types: String Set, Number Set, Binary Se
+* Set Types: String Set, Number Set, Binary Set
